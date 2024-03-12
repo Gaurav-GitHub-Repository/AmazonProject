@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  
+	  <parameter name="browser" value="ChromeBrowser"></parameter>   
+	  <test thread-count="1" name="GoogleChrome"> 
+	    <classes> 
+	      <class name="TestCase.TestCase1"/> 
+<!--      <class name="TestCase.TestCase2"/> -->
+<!--      <class name="TestCase.TestCase3"/>-->
+<!--      <class name="TestCase.TestCase4"/>-->
+<!--      <class name="TestCase.TestCase5"/>-->
+<!--      <class name="TestCase.TestCase6"/> -->
+<!--	  <class name="TestCase.TestCase7"/> --> 
+<!--      <class name="TestCase.TestCase8"/>  -->
+<!--	  <class name="TestCase.TestCase9"/>  -->
+<!--	  <class name="TestCase.TestCase10"/> -->
+<!--	  <class name="TestCase.TestCase11"/> -->
+<!--	  <class name="TestCase.TestCase12"/> -->
+<!--	  <class name="TestCase.TestCase13"/>  -->
+<!--	  <class name="TestCase.TestCase14"/> -->
+<!--	  <class name="TestCase.TestCase15"/> -->  
+<!--	  <class name="TestCase.TestCase16"/> -->
+<!--	  <class name="TestCase.TestCase17"/> -->
+<!--	  <class name="TestCase.TestCase18"/> -->
+<!--	  <class name="TestCase.TestCase19"/> -->
+<!--	  <class name="TestCase.TestCase20"/>  -->
+<!--      <class name="TestCase.TestCase22"/> -->
+<!--	  <class name="TestCase.TestCase23"/>  -->
+<!-- 	  <class name="TestCase.TestCase25"/> -->
+	    </classes> 
+	 </test> <!-- Test -->
+  
+<!--       <parameter name="browser" value="FirefoxBrowser"></parameter> -->
+<!-- 	  <test thread-count="1" name="Firefox"> --> 
+<!-- 	   <classes> -->
+<!--       <class name="TestCase.TestCase26"/> -->
+<!--       <class name="TestCase.TestCase27"/> --> 
+<!--       <class name="TestCase.TestCase28"/> -->
+<!--       <class name="TestCase.TestCase29"/> -->
+<!--       <class name="TestCase.TestCase30"/> -->
+<!--       <class name="TestCase.TestCase31"/> --> 
+<!--       <class name="TestCase.TestCase32"/> -->
+<!--       <class name="TestCase.TestCase34"/> -->
+<!--       <class name="TestCase.TestCase35"/> -->
+<!--       <class name="TestCase.TestCase36"/> -->
+<!--       <class name="TestCase.TestCase37"/> -->
+<!--       <class name="TestCase.TestCase38"/> -->
+<!--       <class name="TestCase.TestCase39"/> -->
+<!--       <class name="TestCase.TestCase40"/> -->
+<!--       <class name="TestCase.TestCase41"/> -->
+<!--       <class name="TestCase.TestCase42"/> -->
+<!--       <class name="TestCase.TestCase43"/> -->
+<!--       <class name="TestCase.TestCase44"/> -->
+<!--       <class name="TestCase.TestCase45"/> -->
+<!--       <class name="TestCase.TestCase47"/> -->
+<!--       <class name="TestCase.TestCase48"/> -->
+<!--       <class name="TestCase.TestCase50"/> -->
+<!--      </classes> -->
+<!--     </test>  -->
+  
+<!--    <parameter name="browser" value="EdgeBrowser"></parameter>   -->
+<!--  <test thread-count="1" name="Edge"> -->
+<!--    <classes> -->
+<!--      <class name="TestCase.TestCase51"/> -->
+<!-- 	  <class name="TestCase.TestCase52"/> -->
+<!-- 	  <class name="TestCase.TestCase53"/> -->
+<!-- 	  <class name="TestCase.TestCase54"/> -->
+<!-- 	  <class name="TestCase.TestCase55"/> -->
+<!-- 	  <class name="TestCase.TestCase56"/> -->
+<!-- 	  <class name="TestCase.TestCase57"/> -->
+<!-- 	  <class name="TestCase.TestCase59"/> -->
+<!-- 	  <class name="TestCase.TestCase60"/> -->
+<!-- 	  <class name="TestCase.TestCase61"/> -->
+<!-- 	  <class name="TestCase.TestCase62"/> -->
+<!-- 	  <class name="TestCase.TestCase63"/> -->
+<!-- 	  <class name="TestCase.TestCase64"/> -->
+<!-- 	  <class name="TestCase.TestCase65"/> -->
+<!-- 	  <class name="TestCase.TestCase66"/> -->
+<!-- 	  <class name="TestCase.TestCase67"/> -->
+<!-- 	  <class name="TestCase.TestCase68"/> -->
+<!-- 	  <class name="TestCase.TestCase69"/> -->
+<!-- 	  <class name="TestCase.TestCase70"/> -->
+<!-- 	  <class name="TestCase.TestCase72"/> -->
+<!-- 	  <class name="TestCase.TestCase73"/> -->
+<!-- 	  <class name="TestCase.TestCase74"/> -->
+<!-- 	  <class name="TestCase.TestCase75"/> -->
+<!--    </classes> -->
+<!--  </test> Test -->
+
+
+</suite> <!-- Suite -->
+	
